@@ -59263,8 +59263,8 @@ p.push(A.ut(A.at(["title","KAOS BUAGUS","tag","tag","description","Nama UMKM : K
 p.push(A.ut(A.at(["title","CERIA CATERING","tag","tag","description","Nama UMKM : Ceria Catering\nNama pemilik : Bu Atik Juminarti\nProduk : Nasi kotak, tumpeng, dan aneka kue basah\nNo. WA : 081455047764\nAlamat : Medokan Semampir Blok G No. 30 Surabaya","picture",A.b(["assets/images/ceria_catering.png"],o),"github",""],n,m)))
 p.push(A.ut(A.at(["title","BIR PLETOK","tag","tag","description","Nama UMKM : Bir Pletok\nNama pemilik : Bu Sri Mulatni\nProduk : Minuman Bir Pletok\nNo. WA : 082140051599\nAlamat : Medokan Semampir blok f/25 Surabaya","picture",A.b(["assets/images/bir_pletok.jpg"],o),"github",""],n,m)))
 p.push(A.ut(A.at(["title","OLLA CAKE","tag","tag","description","Nama UMKM : Olla Cake\nNama pemilik : Bu Mamik Wahyuni\nProduk : Aneka Kue\nNo. WA : 082233915806 / 082244667784 \nAlamat : Medokan Semampir Blok L, No.20 Surabaya","picture",A.b(["assets/images/olla_cake.png"],o),"github",""],n,m)))
-p.push(A.ut(A.at(["title","KRIPIKI TEMPE AMBYAR","tag","tag","description","Nama UMKM : Kripik Tempe Ambyar\nNama pemilik : Mas Rendy\nProduk : Kripik Tempe\nNo. WA : 085706552274 \nAlamat : Medokan Semampir, Surabaya","picture",A.b(["assets/images/umkm_default.png"],o),"github",""],n,m)))
-p.push(A.ut(A.at(["title","GOBYOS","tag","tag","description","Nama UMKM : Gobyos\nNama pemilik : Bu Rini W\nProduk : Nasi Ayam Geprek\nNo. WA : 085936822079 \nAlamat : Medokan Semampir, Surabaya","picture",A.b(["assets/images/umkm_default.png"],o),"github",""],n,m)))
+p.push(A.ut(A.at(["title","KRIPIK TEMPE AMBYAR","tag","tag","description","Nama UMKM : Kripik Tempe Ambyar\nNama pemilik : Mas Rendy\nProduk : Kripik Tempe\nNo. WA : 085706552274 \nAlamat : Medokan Semampir, Surabaya","picture",A.b(["assets/images/umkm_default.png"],o),"github",""],n,m)))
+p.push(A.ut(A.at(["title","GOBYOS","tag","tag","description","Nama UMKM : Gobyos\nNama pemilik : Bu Rini W\nProduk : -\nNo. WA : 085936822079 \nAlamat : Medokan Semampir, Surabaya","picture",A.b(["assets/images/umkm_default.png"],o),"github",""],n,m)))
 
 q=p
 s=1
